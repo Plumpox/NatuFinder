@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 676e7dbc1d07cd144bf76d33afbbd344
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BEC
+    100002: BODY
+    100004: BODY 1
+    100006: Bone body
+    100008: Bone wings
+    100010: Bone001
+    100012: Bone002
+    100014: Bone003
+    100016: Bones tail
+    100018: Doigt back R003
+    100020: Doigt back R004
+    100022: Doigt back R005
+    100024: Doigt back R006
+    100026: Doigt back R007
+    100028: Doigt back R008
+    100030: LEFT PAW
+    100032: LEFT WING
+    100034: LEFT WING001
+    100036: //RootNode
+    100038: PATTE002
+    100040: PATTE003
+    100042: RIGHT PAW
+    100044: Sphere004
+    100046: Sphere005
+    100048: Sphere006
+    100050: TAIL
+    100052: UP
+    100054: UP 1
+    100056: WINGS
+    400000: BEC
+    400002: BODY
+    400004: BODY 1
+    400006: Bone body
+    400008: Bone wings
+    400010: Bone001
+    400012: Bone002
+    400014: Bone003
+    400016: Bones tail
+    400018: Doigt back R003
+    400020: Doigt back R004
+    400022: Doigt back R005
+    400024: Doigt back R006
+    400026: Doigt back R007
+    400028: Doigt back R008
+    400030: LEFT PAW
+    400032: LEFT WING
+    400034: LEFT WING001
+    400036: //RootNode
+    400038: PATTE002
+    400040: PATTE003
+    400042: RIGHT PAW
+    400044: Sphere004
+    400046: Sphere005
+    400048: Sphere006
+    400050: TAIL
+    400052: UP
+    400054: UP 1
+    400056: WINGS
+    2300000: BEC
+    2300002: Doigt back R003
+    2300004: Doigt back R004
+    2300006: Doigt back R005
+    2300008: Doigt back R006
+    2300010: Doigt back R007
+    2300012: Doigt back R008
+    2300014: PATTE002
+    2300016: PATTE003
+    3300000: BEC
+    3300002: Doigt back R003
+    3300004: Doigt back R004
+    3300006: Doigt back R005
+    3300008: Doigt back R006
+    3300010: Doigt back R007
+    3300012: Doigt back R008
+    3300014: PATTE002
+    3300016: PATTE003
+    4300000: BEC
+    4300002: BODY
+    4300004: Doigt back R003
+    4300006: Doigt back R004
+    4300008: Doigt back R005
+    4300010: PATTE002
+    4300012: Doigt back R006
+    4300014: Doigt back R007
+    4300016: Doigt back R008
+    4300018: PATTE003
+    4300020: Sphere006
+    4300022: Sphere004
+    4300024: Sphere005
+    4300026: UP
+    4300028: LEFT WING
+    4300030: LEFT WING001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: BODY 1
+    13700002: LEFT WING
+    13700004: LEFT WING001
+    13700006: Sphere004
+    13700008: Sphere005
+    13700010: Sphere006
+    13700012: UP 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
